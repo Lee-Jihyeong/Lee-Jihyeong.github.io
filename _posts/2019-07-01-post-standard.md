@@ -2,9 +2,9 @@
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
 categories:
-  - Post Formats
+  - nothing
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - nothing
 ---
+This is a first post in my blog.
+I'm waiting for your visiting.
