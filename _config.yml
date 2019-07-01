@@ -130,7 +130,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Instagram"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://kr.linkedin.com/"
 
@@ -293,6 +293,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
