@@ -23,7 +23,7 @@ description              : "website"
 url                      : "https://lee-jihyeong.github.io"
 baseurl                  : /
 repository               : "Lee-Jihyeong/Lee-Jihyeong.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/home_office.jpg"
 logo                     : "/assets/images/home_office.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
