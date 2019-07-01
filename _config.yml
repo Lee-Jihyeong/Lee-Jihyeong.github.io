@@ -23,8 +23,8 @@ description              : "website"
 url                      : "https://lee-jihyeong.github.io"
 baseurl                  : /
 repository               : "Lee-Jihyeong/Lee-Jihyeong.github.io"
-teaser                   : "/assets/images/home_office.jpg"
-logo                     : "/assets/images/home_office.jpg"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : #
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Lee Ji-hyeong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/home_office.jpg"
   bio              : "Hello! Nice to meet you!"
   location         : "South Korea"
   email            :
