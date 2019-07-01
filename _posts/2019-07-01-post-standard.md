@@ -1,10 +1,10 @@
 ---
-title: "Post: Standard"
+title: "First Posting"
 excerpt_separator: "<!--more-->"
 categories:
-  - nothing
+  - Nothing
 tags:
-  - nothing
+  - Nothing
 ---
 This is a first post in my blog.
 I'm waiting for your visiting.
