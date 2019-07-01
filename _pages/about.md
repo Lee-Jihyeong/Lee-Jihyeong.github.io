@@ -1,2 +1,6 @@
-# Lee-Jihyeong.github.io
-Blog
+---
+title: "About"
+permalink: /about/
+layout: posts
+author_profile: true
+---
