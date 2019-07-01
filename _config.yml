@@ -18,13 +18,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko"
 title                    : "Blog"
 title_separator          : "-"
-name                     : "Lee Ji-hyeong"
+name                     : "Lee Jihyeong"
 description              : "website"
 url                      : "https://lee-jihyeong.github.io"
 baseurl                  : /
 repository               : "Lee-Jihyeong/Lee-Jihyeong.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/home_office.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,7 +109,7 @@ author:
   name             : "Lee Ji-hyeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello! Nice to meet you!"
-  location         : "ROK"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
@@ -117,10 +117,10 @@ author:
       url: mailto:lee.jihyeong0823@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://lee-jihyeong.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/leejh11013840"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
